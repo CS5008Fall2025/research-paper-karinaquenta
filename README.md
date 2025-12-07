@@ -67,9 +67,9 @@ From this project, I learned how rolling hashes work, how algorithms balance spe
 
 ## References
 
-[1] Rabin, M. O., & Karp, R. M. (1987). Efficient randomized pattern-matching algorithms. IBM Journal of Research and Development.
-[2] Cormen, T. H., Leiserson, C. E., Rivest, R. L., & Stein, C. (2009). Introduction to Algorithms (3rd ed.). MIT Press.
-[3] Aho, A. V., Hopcroft, J. E., & Ullman, J. D. (1974). The Design and Analysis of Computer Algorithms. Addison-Wesley.
-[4] Stein, B., Lipka, N., & Prettenhofer, P. (2011). Intrinsic plagiarism analysis. Language Resources & Evaluation.
-[5] Roesch, M. (1999). Snort: Lightweight intrusion detection for networks. University of California.
-[6] Gusfield, D. (1997). Algorithms on Strings, Trees, and Sequences. Cambridge University Press.rences
+- [1] Rabin, M. O., & Karp, R. M. (1987). Efficient randomized pattern-matching algorithms. IBM Journal of Research and Development.
+- [2] Cormen, T. H., Leiserson, C. E., Rivest, R. L., & Stein, C. (2009). Introduction to Algorithms (3rd ed.). MIT Press.
+- [3] Aho, A. V., Hopcroft, J. E., & Ullman, J. D. (1974). The Design and Analysis of Computer Algorithms. Addison-Wesley.
+- [4] Stein, B., Lipka, N., & Prettenhofer, P. (2011). Intrinsic plagiarism analysis. Language Resources & Evaluation.
+- [5] Roesch, M. (1999). Snort: Lightweight intrusion detection for networks. University of California.
+- [6] Gusfield, D. (1997). Algorithms on Strings, Trees, and Sequences. Cambridge University Press.rences
