@@ -35,7 +35,7 @@ When the text size was 10,000 characters, the algorithm took about 0.003 seconds
 
 ![Empirical Runtime of Rabin–Karp - Figure #1](analysis_graph.png)
 
-In Figure 1, you can see the empirical runtime of the 'Rabin-Karp algorithm' implemented in Python. The graph shows how runtime increases as the input text size grows from 10,000 to 1,000,000 characters. The results shows a linear increase in runtime as the input size increases and matches O(n) runtime discussed earlier.
+Here you can see the empirical runtime of the 'Rabin-Karp algorithm' implemented in Python. The graph shows how runtime increases as the input text size grows from 10,000 to 1,000,000 characters. The results shows a linear increase in runtime as the input size increases and matches O(n) runtime discussed earlier.
 
 Python does add some overhead because it is an interpreted, dynamically typed language. Even with that limitation, the algorithm still ran very efficiently.
 
